@@ -4,7 +4,7 @@
 <br>▪️ Music 🎧 - Currently listening to a lot of The Black Keys<br>
 <br>▪️ Gaming 🎮 - Currnetly playing Assassins Creed Valhalla and Apex Legends<br> 
       
-- 🌱 I’m currently learning ...
+<br>- 🌱 I’m currently learning ...<br>
 <br>▪️ Javascript on my way towards Full-Stack Developer.<br>
 - 💞️ I’m looking to collaborate on ...
 
